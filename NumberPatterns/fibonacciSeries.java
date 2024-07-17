@@ -9,6 +9,7 @@ public class fibonacciSeries {
         int c;
         int endNumber;
 
+        @SuppressWarnings("resource")
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a number till which you want the series: ");
         endNumber = scanner.nextInt();
