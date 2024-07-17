@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "fibonacciSeriesUsingRecerssion",
+            "request": "launch",
+            "mainClass": "NumberPatterns.fibonacciSeriesUsingRecerssion",
+            "projectName": "CodingPreparation_f0c32f1d"
+        },
+        {
+            "type": "java",
             "name": "fibonacciSeries",
             "request": "launch",
             "mainClass": "NumberPatterns.fibonacciSeries",
