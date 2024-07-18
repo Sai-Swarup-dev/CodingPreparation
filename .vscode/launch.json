@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FactorialNumber",
+            "request": "launch",
+            "mainClass": "NumberPatterns.FactorialNumber",
+            "projectName": "CodingPreparation_f0c32f1d"
+        },
+        {
+            "type": "java",
             "name": "PrimeNumberSeries",
             "request": "launch",
             "mainClass": "NumberPatterns.PrimeNumberSeries",
