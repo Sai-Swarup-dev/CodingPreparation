@@ -3,6 +3,7 @@ package NumberPatterns;
 import java.util.Scanner;
 
 public class fibonacciSeriesUsingRecerssion {
+    @SuppressWarnings("resource")
     public static void main(String[] args) {
         int number;
         int firstNum = 0;
