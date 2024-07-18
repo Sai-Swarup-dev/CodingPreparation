@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "OddNumber",
+            "request": "launch",
+            "mainClass": "NumberPatterns.OddNumber",
+            "projectName": "CodingPreparation_f0c32f1d"
+        },
+        {
+            "type": "java",
             "name": "EvenNumber",
             "request": "launch",
             "mainClass": "NumberPatterns.EvenNumber",
