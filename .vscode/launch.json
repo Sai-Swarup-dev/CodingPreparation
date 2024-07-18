@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrimeNumber",
+            "request": "launch",
+            "mainClass": "NumberPatterns.PrimeNumber",
+            "projectName": "CodingPreparation_f0c32f1d"
+        },
+        {
+            "type": "java",
             "name": "SumOfNaturalNumbers",
             "request": "launch",
             "mainClass": "NumberPatterns.SumOfNaturalNumbers",
