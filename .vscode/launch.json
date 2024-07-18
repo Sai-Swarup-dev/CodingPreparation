@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SumOfEvenNumbers",
+            "request": "launch",
+            "mainClass": "NumberPatterns.SumOfEvenNumbers",
+            "projectName": "CodingPreparation_f0c32f1d"
+        },
+        {
+            "type": "java",
             "name": "OddNumber",
             "request": "launch",
             "mainClass": "NumberPatterns.OddNumber",
