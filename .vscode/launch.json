@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NaturalNumbers",
+            "request": "launch",
+            "mainClass": "NumberPatterns.NaturalNumbers",
+            "projectName": "CodingPreparation_f0c32f1d"
+        },
+        {
+            "type": "java",
             "name": "fibonacciSeriesUsingRecerssion",
             "request": "launch",
             "mainClass": "NumberPatterns.fibonacciSeriesUsingRecerssion",
