@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HollowSquareDesign",
+            "request": "launch",
+            "mainClass": "NumberDesign.HollowSquareDesign",
+            "projectName": "CodingPreparation_f0c32f1d"
+        },
+        {
+            "type": "java",
             "name": "SquareStarPattern",
             "request": "launch",
             "mainClass": "NumberDesign.SquareStarPattern",
