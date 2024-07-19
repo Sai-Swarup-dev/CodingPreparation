@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SquareStarPattern",
+            "request": "launch",
+            "mainClass": "NumberDesign.SquareStarPattern",
+            "projectName": "CodingPreparation_f0c32f1d"
+        },
+        {
+            "type": "java",
             "name": "FactorialNumber",
             "request": "launch",
             "mainClass": "NumberPatterns.FactorialNumber",

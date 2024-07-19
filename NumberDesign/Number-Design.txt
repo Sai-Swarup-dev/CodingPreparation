@@ -1,0 +1,32 @@
+Number Design Question
+=======================
+
+1. Square Star Pattern
+           ****
+           ****
+           ****
+           ****
+
+2. Hollow Square Star Pattern
+           ****
+           *  *
+           *  *
+           ****
+
+3. Rhombus Star Pattern
+           ****
+            ****
+             ****
+              ****
+
+4. Rectangle Star Pattern
+           ******
+           ******
+           ******
+           ******
+
+5. Hollow Rectangle Star Pattern
+           ******
+           *    *
+           *    *
+           ******
