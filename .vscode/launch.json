@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PeakElement",
+            "request": "launch",
+            "mainClass": "Array.PeakElement",
+            "projectName": "CodingPreparation_f0c32f1d"
+        },
+        {
+            "type": "java",
+            "name": "RhombusDesign",
+            "request": "launch",
+            "mainClass": "NumberDesign.RhombusDesign",
+            "projectName": "CodingPreparation_f0c32f1d"
+        },
+        {
+            "type": "java",
             "name": "HollowSquareDesign",
             "request": "launch",
             "mainClass": "NumberDesign.HollowSquareDesign",
